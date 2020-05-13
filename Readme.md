@@ -5,6 +5,8 @@ Trường Đại Học Trần Đại Nghĩa
 16DDS06031
 ===========================
 
-Nguyễn Lê Xuân Phước
-Tôn Nữ Nguyên Hậu
-Đỗ Tống Quốc
+1.Nguyễn Lê Xuân Phước
+
+2.Tôn Nữ Nguyên Hậu
+
+3.Đỗ Tống Quốc
